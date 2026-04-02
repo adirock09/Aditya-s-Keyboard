@@ -40,7 +40,8 @@ The Keyboard uses a matrix grid so i need only a few gpio pins for the whole key
 <img width="1536" height="605" alt="Screenshot (98)" src="https://github.com/user-attachments/assets/bb2fe7f3-91fb-42c6-ace2-83d5c71401bc" /><br>
 
 ### 3D Design
-<img width="826" height="511" alt="Screenshot (295)" src="https://github.com/user-attachments/assets/3a7c6106-6f94-494e-9434-45eb0a77490b" />
+<img width="879" height="611" alt="Screenshot (296)" src="https://github.com/user-attachments/assets/d8ad9c34-1557-4448-a42e-b755d5777ef9" />
+
 <br>
-<img width="829" height="637" alt="Screenshot (294)" src="https://github.com/user-attachments/assets/19efdbb8-bcef-42e3-8874-303b7ffaff0f" />
-<img width="1223" height="687" alt="Screenshot (293)" src="https://github.com/user-attachments/assets/97220df1-c722-4c20-a60e-d5e13c18a0f2" />
+<img width="914" height="593" alt="Screenshot (297)" src="https://github.com/user-attachments/assets/e7797622-8545-449f-a86c-a7a0643a3d9e" />
+
